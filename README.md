@@ -21,7 +21,7 @@
   
   ## Usage
  NA
-
+Deployed Heroku: https://note-tracker-heroku.herokuapp.com/
   
   ## Credits
 
